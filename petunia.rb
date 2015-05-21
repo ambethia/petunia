@@ -6,6 +6,6 @@ get '/' do
 end
 
 post '/' do
-  data = JSON.parser(request.body)
+  data = JSON.parse(request.body)
   logger.info(data)
 end
