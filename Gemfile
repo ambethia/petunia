@@ -1,6 +1,7 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 ruby '2.2.2'
 
-gem "sinatra"
-gem "puma"
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'puma'

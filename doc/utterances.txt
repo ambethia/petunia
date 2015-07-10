@@ -1,0 +1,23 @@
+ListStudents list the students
+ListStudents tell me about the students
+ListStudents how many students
+
+AddStudent add {alice|Student}
+AddStudent add {bob|Student} as a student
+AddStudent add {bob|Student} to the list
+
+RemoveStudent remove {alice|Student}
+RemoveStudent remove {bob|Student} as a student
+RemoveStudent remove {bob|Student} from the list
+
+PickStudent who is next
+PickStudent who's next
+PickStudent pick a student
+
+ResetStudents reset
+ResetStudents reset students
+ResetStudents start over
+
+RemainingStudents tell me how many students are left
+RemainingStudents who hasn't been called on
+RemainingStudents who's left

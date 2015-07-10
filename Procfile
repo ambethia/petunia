@@ -1,1 +1,1 @@
-web: bundle exec rackup -s puma -p $PORT
+web: bundle exec puma -b tcp://localhost -p $PORT
